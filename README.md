@@ -1,3 +1,4 @@
 # my_first_project
 这是我第一次在gitHub上新建项目仓库
 这是我第一次在修改gitHub上的readMe文件，我很兴奋
+这是我第一次在gitHub上克隆项目
